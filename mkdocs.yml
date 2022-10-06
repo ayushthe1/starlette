@@ -20,7 +20,13 @@ theme:
 
 repo_name: encode/starlette
 repo_url: https://github.com/encode/starlette
-edit_uri: ""
+edit_uri: https://github.com/encode/starlette/tree/master/docs
+
+theme:
+  icon:
+    edit: material/pencil 
+    repo: fontawesome/brands/github
+
 
 nav:
   - Introduction: 'index.md'
